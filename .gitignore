@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+
+# personal recordings and generated output
+clips/
+reports/
+*.wav
+*.mp3
+*.m4a
+register_model.json
+pitch.csv
